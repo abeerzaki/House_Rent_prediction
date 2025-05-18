@@ -64,3 +64,5 @@ SHAP was used to explain:
 1. Clone the repo:
    ```bash
    git clone https://github.com/abeerzaki/House_Rent_prediction.git
+   ```
+   
